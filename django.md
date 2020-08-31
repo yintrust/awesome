@@ -19,6 +19,10 @@
 - [whitenoise](https://pypi.org/project/whitenoise/)
 - [djangorestframework](https://pypi.org/project/djangorestframework/)
 
+一些有用的工具：
+
+- [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django)：快速生成 Django 项目目录结构
+
 一些有用的资源：
 
 - [Django Packages](https://djangopackages.org/)：可用于对比各个应用，帮助作出选择
