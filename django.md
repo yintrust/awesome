@@ -16,6 +16,9 @@
 - [django-storages](https://pypi.org/project/django-storages/)
 - [django-anymail](https://pypi.org/project/django-anymail/)
 - [django-mathfilters](https://pypi.org/project/django-mathfilters/)
+- [django-guardian](https://pypi.org/project/django-guardian/)：为 Django 实现对象级别的权限控制
+- [django-grappelli](https://pypi.org/project/django-grappelli/)：一款 Django Admin 主题
+- [django-notifications-hq](https://pypi.org/project/django-notifications-hq/)：类似于 GitHub 通知的 Django 通知系统
 - [whitenoise](https://pypi.org/project/whitenoise/)
 - [djangorestframework](https://pypi.org/project/djangorestframework/)
 
