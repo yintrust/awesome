@@ -15,7 +15,7 @@
 - [pytest-django](https://pypi.org/project/pytest-django/)：(仅用于本地环境)
 - [django-storages](https://pypi.org/project/django-storages/)
 - [django-anymail](https://pypi.org/project/django-anymail/)
-- [django-mathfilters](https://pypi.org/project/django-mathfilters/)
+- [django-mathfilters](https://pypi.org/project/django-mathfilters/)：为 Django 模板提供数学相关过滤器
 - [django-guardian](https://pypi.org/project/django-guardian/)：为 Django 实现对象级别的权限控制
 - [django-grappelli](https://pypi.org/project/django-grappelli/)：一款 Django Admin 主题
 - [django-notifications-hq](https://pypi.org/project/django-notifications-hq/)：类似于 GitHub 通知的 Django 通知系统
