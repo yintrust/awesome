@@ -9,11 +9,36 @@
 
 ## 一些命令行工具：
 
+- [eslint](https://www.npmjs.com/package/eslint)：JavaScript 代码 lint 工具
 - [yo](https://www.npmjs.com/package/yo)：用于生成项目脚手架
 - [nodemon](https://www.npmjs.com/package/nodemon)：用于监听并重启 Node.js 应用
+- [gulp](https://www.npmjs.com/package/gulp)：前端工作流管理工具
+- [webpack](https://www.npmjs.com/package/webpack)：前端打包工具
+- [jsdoc](https://www.npmjs.com/package/jsdoc)：JavaScript 文档生成工具
 
 ## 一些后端 Node.js 模块：
 
-- [mongoose](https://www.npmjs.com/package/mongoose)：MongoDB ORM 工具
+- [mongoose](https://www.npmjs.com/package/mongoose)：适用于 MongoDB 的 ODM 框架
+- [sequelize](https://www.npmjs.com/package/sequelize)：适用于关系型数据库的 ORM 框架
+- [morgan](https://www.npmjs.com/package/morgan)：HTTP 请求日志中间件
+- [moment](https://www.npmjs.com/package/moment)：处理日期和时间的库
 - [mime](https://www.npmjs.com/package/mime)：用于处理 MIME type 的模块
 - [formidable](https://www.npmjs.com/package/formidable)：用于解析表单数据的模块
+- [wechat-jssdk](https://www.npmjs.com/package/wechat-jssdk)：第三方维护的微信 JS-SDK 库
+- [tenpay](https://www.npmjs.com/package/tenpay)：第三方维护的微信支付库
+- [body-parser](https://www.npmjs.com/package/body-parser)：Express 官方推出的用于解析请求体的库
+- [cookie-parser](https://www.npmjs.com/package/cookie-parser)：Express 官方推出的用于解析 cookie 的库
+- [compression](https://www.npmjs.com/package/compression)：Express 官方推出的用于压缩的库
+- [method-override](https://www.npmjs.com/package/method-override)：Express 官方推出的用于
+- [cors](https://www.npmjs.com/package/cors)：Express 官方推出的用于
+- [module-alias](https://www.npmjs.com/package/module-alias)：用于简化模块路径的库
+- [dotenv](https://www.npmjs.com/package/dotenv)：
+- [moment-timezone](https://www.npmjs.com/package/moment-timezone)：
+- [bull](https://www.npmjs.com/package/bull)：
+- [lodash](https://www.npmjs.com/package/lodash)：
+- [http-status](https://www.npmjs.com/package/http-status)：
+- [helmet](https://www.npmjs.com/package/helmet)：
+- [cron](https://www.npmjs.com/package/cron)：
+- [uuid](https://www.npmjs.com/package/uuid)：
+- [faker](https://www.npmjs.com/package/faker)：
+- [node-excel-export](https://www.npmjs.com/package/node-excel-export)：
