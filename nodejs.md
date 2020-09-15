@@ -18,6 +18,8 @@
 
 ## 一些后端 Node.js 模块：
 
+- [commander](https://www.npmjs.com/package/commander)：更方便处理命令行参数的模块
+- [ora](https://www.npmjs.com/package/ora)：命令行进度条模块
 - [mongoose](https://www.npmjs.com/package/mongoose)：适用于 MongoDB 的 ODM 框架
 - [sequelize](https://www.npmjs.com/package/sequelize)：适用于关系型数据库的 ORM 框架
 - [morgan](https://www.npmjs.com/package/morgan)：HTTP 请求日志中间件
