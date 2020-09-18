@@ -26,6 +26,8 @@
 - [moment](https://www.npmjs.com/package/moment)：处理日期和时间的库
 - [mime](https://www.npmjs.com/package/mime)：用于处理 MIME type 的模块
 - [formidable](https://www.npmjs.com/package/formidable)：用于解析表单数据的模块
+- [dotenv](https://www.npmjs.com/package/dotenv)：在 Node.js 中轻松使用 `.env` 文件
+- [module-alias](https://www.npmjs.com/package/module-alias)：用于简化模块路径的库
 - [wechat-jssdk](https://www.npmjs.com/package/wechat-jssdk)：第三方维护的微信 JS-SDK 库
 - [tenpay](https://www.npmjs.com/package/tenpay)：第三方维护的微信支付库
 - [morgan](https://www.npmjs.com/package/morgan)：Express 官方推出的 HTTP 请求日志中间件
@@ -34,12 +36,10 @@
 - [compression](https://www.npmjs.com/package/compression)：Express 官方推出的用于压缩的库
 - [method-override](https://www.npmjs.com/package/method-override)：Express 官方推出的用于
 - [cors](https://www.npmjs.com/package/cors)：Express 官方推出的用于
-- [module-alias](https://www.npmjs.com/package/module-alias)：用于简化模块路径的库
 - [cron](https://www.npmjs.com/package/cron)：定时任务模块
 - [bull](https://www.npmjs.com/package/bull)：任务队列模块
 - [node-excel-export](https://www.npmjs.com/package/node-excel-export)：支持导出 Excel 表的模块
 - [lodash](https://www.npmjs.com/package/lodash)：封装了常见的字符串、数组、对象等常见数据类型的处理函数的工具库
-- [dotenv](https://www.npmjs.com/package/dotenv)：
 - [moment-timezone](https://www.npmjs.com/package/moment-timezone)：
 - [http-status](https://www.npmjs.com/package/http-status)：
 - [helmet](https://www.npmjs.com/package/helmet)：
