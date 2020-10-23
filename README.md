@@ -8,5 +8,7 @@ Contents:
 
 - [Awesome Python](python.md)
 - [Awesome Django](django.md)
+- [Awesome Flask](flask.md)
 - [Awesome Node.js](nodejs.md)
 - [Awesome Angular](angular.md)
+- [Awesome Express](express.md)
