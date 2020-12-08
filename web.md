@@ -14,3 +14,5 @@
 - [Odoo](https://github.com/odoo/odoo) ：ERP 企业资源计划系统
 - [GitLab](https://gitlab.com/gitlab-org/gitlab) ：版本控制系统
 - [Jenkins](https://github.com/jenkinsci/jenkins) ：CI/CD 平台
+- [SonarQube](https://github.com/SonarSource/sonarqube) ：代码质量检测平台
+- [Grafana](https://github.com/grafana/grafana) ：可视化监控平台
