@@ -3,7 +3,7 @@
 一些 Python 第三方包：
 
 - [python-dotenv](https://pypi.org/project/python-dotenv/) ：
-- [WeasyPrint](https://pypi.org/project/WeasyPrint/) ：用于生成 PDF 文档
+- [WeasyPrint](https://pypi.org/project/WeasyPrint/) ：用于将 HTML 转换为 PDF
 - [qrcode](https://pypi.org/project/qrcode/) ：用于生成二维码
 - [wechatpy](https://pypi.org/project/wechatpy/) ：微信公众平台第三方 Python SDK
 - [base58](https://pypi.org/project/base58/) ：实现 Base58 编码/解码
