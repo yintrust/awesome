@@ -4,6 +4,8 @@
 
 Online access address: <https://yintrust.github.io/awesome>
 
+给“选择困难症患者”的 Awesome 列表！
+
 Contents:
 
 - [Awesome Python](python.md)
