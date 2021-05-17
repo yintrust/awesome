@@ -15,6 +15,7 @@
 - [gulp](https://www.npmjs.com/package/gulp) ：前端工作流管理工具
 - [webpack](https://www.npmjs.com/package/webpack) ：前端打包工具
 - [jsdoc](https://www.npmjs.com/package/jsdoc) ：JavaScript 文档生成工具
+- [pm2](https://www.npmjs.com/package/pm2)：进程管理器
 
 ## 一些后端 Node.js 模块：
 
@@ -23,6 +24,11 @@
 - [cross-env](https://www.npmjs.com/package/cross-env) ：解决了跨平台环境下设置环境变量的问题
 - [mongoose](https://www.npmjs.com/package/mongoose) ：适用于 MongoDB 的 ODM 框架
 - [sequelize](https://www.npmjs.com/package/sequelize) ：适用于关系型数据库的 ORM 框架
+- [redis](https://www.npmjs.com/package/redis)：Redis 客户端
+- [md5](https://www.npmjs.com/package/md5)：用于计算 MD5
+- [python-shell](https://www.npmjs.com/package/python-shell)：用于在 Node.js 中调用 Python 脚本
+- [cheerio](https://www.npmjs.com/package/cheerio)：服务端的 jQuery 实现
+- [js-yaml](https://www.npmjs.com/package/js-yaml)：用于处理 YAML 文件
 - [dayjs](https://www.npmjs.com/package/dayjs) ：处理日期和时间的库
 - [mime](https://www.npmjs.com/package/mime) ：用于处理 MIME type 的模块
 - [formidable](https://www.npmjs.com/package/formidable) ：用于解析表单数据的模块
@@ -37,5 +43,5 @@
 - [moment-timezone](https://www.npmjs.com/package/moment-timezone) ：
 - [http-status](https://www.npmjs.com/package/http-status) ：
 - [helmet](https://www.npmjs.com/package/helmet) ：
-- [uuid](https://www.npmjs.com/package/uuid) ：
+- [uuid](https://www.npmjs.com/package/uuid) ：用于生成 UUID
 - [faker](https://www.npmjs.com/package/faker) ：
